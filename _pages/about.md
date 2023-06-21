@@ -16,6 +16,7 @@ Minha experiência também inclui trabalhar em projetos DevOps, usando metodolog
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em tecnologia e contribuir para o crescimento de empresas e projetos inovadores.
 
+
 Formação Acadêmica
 ======
 1. Bacharelado em Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais 
@@ -61,3 +62,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[Currículo Vitae (CV)](/_pages/cv.md)
