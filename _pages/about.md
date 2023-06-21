@@ -30,6 +30,12 @@ Com esses conhecimentos, estou preparado para atuar em empresas de tecnologia e 
 
 Competências: Pyhton · Vue.js · Desenvolvimento orientado a testes · Administração de redes · PHP · Rede de computadores · Ciência de dados · DevOps · Python · Macro · HTML · Node.js · React.js · Tecnologia da informação · Desenvolvimento de software · Desenvolvimento de front-end · Desenvolvimento web · Microsoft Excel · SQL · Visual Basic · Banco de dados · .NET Framework · Microsoft PowerPoint · JavaScript · Git · CSS · AngularJS · Docker · ASP.NET · Trabalho em equipe · Inglês empresarial
 
+1. Montagem e manutenção de microcomputadores e redes - Serviço Nacional de Aprendizagem Industrial – SENAI
+
+1. Técnico em Administração - Serviço Nacional de Aprendizagem Comercial
+
+1. Assistente Administrativo em Transporte - SEST SENAT
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
