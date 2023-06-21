@@ -7,11 +7,9 @@ main:
     url: https://scholar.google.com/citations?hl=pt-BR&user=EJ7c9fsAAAAJ&view_op=list_works&authuser=6&gmla=AHoSzlUCldglNS1Xzu7-Zc00jXgir5mlZzuNvRmxmvpb3qSJf1Fvcxqog8ISThR7EWG-Vtw8uztN8Bci1koTyq25kuyLOswKSLllj9pQ5MJ6FVEmHkMtAbrjer-QnNH1hTCOFACs26kh2ldIR6lEfqprcvhhal3FBbXdQgafvHYM    
 
   - title: "Youtube Channel"
-    url: /teaching/    
+    url: https://www.youtube.com/@LZCode    
     
   - title: "Github"
     url: https://github.com/luizaao
         
-  - title: "Blog"
-    url: /year-archive/
 

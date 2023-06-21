@@ -21,18 +21,24 @@ Formação Acadêmica
 ======
 1. Bacharelado em Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais 
 
-Atividades e grupos: - Realização de projetos pessoais de programação, tais como criação de aplicativos, jogos ou sites, para aprimorar habilidades técnias e desenvolver portfolio.
-- Realização de estágio onde pude aplicar conhecimentos em situações reais e adquirir experiência profissional.
-- Trabalhos em grupos para diversas matérias como engenharia de software, banco de dados, sistemas operacionais, etc.
-
 Sou graduado em Ciência da Computação, com sólidos conhecimentos em programação, algoritmos e estruturas de dados. Durante meu curso, aprendi a desenvolver softwares eficientes e escaláveis, bem como a lidar com desafios tecnológicos complexos. Além disso, tive a oportunidade de me aprofundar em áreas como inteligência artificial, redes de computadores e segurança da informação. 
 Com esses conhecimentos, estou preparado para atuar em empresas de tecnologia e contribuir para o desenvolvimento de soluções inovádoras que melhorem a vida das pessoas.
 
+- Atividades e grupos: - Realização de projetos pessoais de programação, tais como criação de aplicativos, jogos ou sites, para aprimorar habilidades técnias e desenvolver portfolio.
+- Realização de estágio onde pude aplicar conhecimentos em situações reais e adquirir experiência profissional.
+- Trabalhos em grupos para diversas matérias como engenharia de software, banco de dados, sistemas operacionais, etc.
+
 Competências: Pyhton · Vue.js · Desenvolvimento orientado a testes · Administração de redes · PHP · Rede de computadores · Ciência de dados · DevOps · Python · Macro · HTML · Node.js · React.js · Tecnologia da informação · Desenvolvimento de software · Desenvolvimento de front-end · Desenvolvimento web · Microsoft Excel · SQL · Visual Basic · Banco de dados · .NET Framework · Microsoft PowerPoint · JavaScript · Git · CSS · AngularJS · Docker · ASP.NET · Trabalho em equipe · Inglês empresarial
+
 
 1. Montagem e manutenção de microcomputadores e redes - Serviço Nacional de Aprendizagem Industrial – SENAI
 
-1. Técnico em Administração - Serviço Nacional de Aprendizagem Comercial
+
+1. Técnico em Administração - Serviço Nacional de Aprendizagem Comercial - SENAC
+
+Curso de 1000h em técnico de administração.
+Competências: Finanças · Administração · Microsoft PowerPoint · Trabalho em equipe
+
 
 1. Assistente Administrativo em Transporte - SEST SENAT
 
@@ -68,4 +74,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-[Currículo Vitae (CV)](/_pages/cv.md)
+
+[Currículo Vitae (CV)](https://luizaao.github.io/cv)
