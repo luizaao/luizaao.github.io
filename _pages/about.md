@@ -29,14 +29,20 @@ Além da minha formação em Ciência da Computação, também possuo formaçõe
 
 Experiências vivenciadas 🫱🏽‍🫲🏽
 ======
+Trabalhando como freelancer na plataforma Workana desde abril de 2023, desenvolvi projetos full-stack e front-end utilizando React, Angular e Node.js. Participei ativamente da implementação de funcionalidades, testes e otimização de performance. Além disso, tive a oportunidade de colaborar com clientes, compreendendo suas necessidades e propondo soluções personalizadas.
 
+Ao longo de minha trajetória na Danone, entre março de 2019 e outubro de 2022, atuei como auxiliar de analista, contribuindo para o setor fiscal com o desenvolvimento de Macros, Userforms e integração de sistemas. Utilizei ferramentas como Power Query, PowerBI, Python e Selenium, proporcionando eficiência na análise de dados e otimização dos processos internos.
+
+Complementando minha experiência, realizei trabalhos autônomos desde janeiro de 2018, oferecendo serviços de montagem e manutenção de hardware e software em diferentes dispositivos, como computadores, notebooks, servidores e redes domésticas. Adicionalmente, participei de um estágio no INSS, onde pude aprimorar minhas habilidades em manutenção de redes e computadores, além de desenvolver um site utilizando WordPress.
+
+Em todas essas experiências, além das competências técnicas, destaco minha habilidade de comunicação e liderança, que me permitiram interagir com clientes, trabalhar em equipe e propor soluções eficientes. No meu site portfolio, você encontrará mais detalhes sobre minhas experiências e habilidades, que contribuem para meu perfil profissional diversificado e adaptável.
 
 Projetos, conquistas e aprimoramentos 🏆
 ------
+Ao longo de minha jornada profissional, busquei constantemente aprimorar minhas habilidades e expandir meu conhecimento em diversas áreas. Dediquei tempo a cursos intensivos em front-end web, como HTML, CSS e JavaScript, adquirindo a capacidade de criar interfaces atraentes e interativas. Além disso, explorei frameworks populares, como jQuery e Bootstrap, para desenvolvimento web ágil e responsivo. Busquei também o aperfeiçoamento no React JS, ampliando meu leque de ferramentas para a criação de aplicativos web modernos e eficientes.
 
+Além disso, investi em linguagens de programação fundamentais, como Python e Ruby on Rails, fortalecendo meu repertório técnico. Obtive certificação em Excel avançado pelo SEST SENAT, demonstrando proficiência na análise de dados complexos e na automação de tarefas. Busquei conhecimentos em tecnologias emergentes, como Red Hat OpenShift e Linux, aprimorando minha experiência em ambientes de contêineres e sistemas operacionais de código aberto. Com uma visão abrangente do campo da tecnologia, adquiri conhecimentos em engenharia de software, análise de dados, redes de computadores, administração e transporte, o que me permitiu explorar diferentes papéis, desde desenvolvedor full-stack até ciência de dados.z
 
 Para mais informações
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-[Currículo Vitae (CV)](https://luizaao.github.io/cv)
+No meu [Currículo Vitae (CV)](https://luizaao.github.io/cv) e no meu [Linkedin](https://www.linkedin.com/in/luiz-guilherme257/), você encontrará mais informações sobre meus projetos realizados, conquistas e aprimoramentos, destacando meu comprometimento em evoluir constantemente e enfrentar desafios tecnológicos com confiança e criatividade.
