@@ -23,58 +23,58 @@ Idiomas
 
 Formação
 ======
-1. Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - FEV DE 2018 – JUN DE 2023
+- Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - FEV DE 2018 – JUN DE 2023
 
 Bacharelado em Ciência da Computação
 
 
-1. SEST SENAT JAN DE 2017 – DEZ DE 2017 - 1250 horas
+- SEST SENAT JAN DE 2017 – DEZ DE 2017 - 1250 horas
 
 Assistente Administrativo em Transporte
 
 
-1. Serviço Nacional de Aprendizagem Comercial – SENAC - 01/2015 – 01/2016
+- Serviço Nacional de Aprendizagem Comercial – SENAC - 01/2015 – 01/2016
 
 Técnico em Administração
 
 
-1. Serviço Nacional de Aprendizagem Industrial – SENAI - JUN DE 2015 – DEZ DE 2015 - 400 horas
+- Serviço Nacional de Aprendizagem Industrial – SENAI - JUN DE 2015 – DEZ DE 2015 - 400 horas
 
 Montagem e manutenção de microcomputadores e redes
 
 
-1. Colégio Municipal Dr. José Vargas de Souza
+- Colégio Municipal Dr. José Vargas de Souza
 
 Ensino médio completo - 2016
 
 Experiências
 ======
-1. Workana – Freelancer Desenvolvedor de Sistemas - DESDE ABR DE 2023
+- Workana – Freelancer Desenvolvedor de Sistemas - DESDE ABR DE 2023
 
 Desenvolvi projetos full-stack e front-end utilizando as tecnologias React e Angular, além de projetos back-end utilizando Node.js. Como parte desses trabalhos, fui responsável pela implementação de funcionalidades, elaboração de testes e otimização de performance. Também participei de reuniões com clientes para entender suas necessidades e propor soluções customizadas, contribuindo para a construção de sistemas que atendem às expectativas dos usuários finais.
 
 
-1. DANONE – Auxiliar de analista - MAR DE 2019 – OUT DE 2022
+- DANONE – Auxiliar de analista - MAR DE 2019 – OUT DE 2022
 
 Desenvolvimento de Macros e Userforms para o setor fiscal; Power Query e PowerBI; Interação de Macros com o sistema SAP, fazendo conexões com APIs em Python e integração com Selenium; criação de banco de dados, dashboards; análise de relatórios; criação de modelos de casos de usos; interação e scritps feitos no SAP; sistemas para conversão de XML.
 
 
-1. Autônomo – Técnico em Informática - DESDE JAN DE 2018
+- Autônomo – Técnico em Informática - DESDE JAN DE 2018
 
 Montagem e manutenção preventiva e corretiva de hardwares e softwares de computadores, notebooks, servidores, celulares e redes domésticas.
 
 
-1. INSS – Estágio como Técnico de manutenção de redes e computadores - JUN DE 2018 – MAR DE 2019
+- INSS – Estágio como Técnico de manutenção de redes e computadores - JUN DE 2018 – MAR DE 2019
 
 Manutenção de computadores e redes; instalação de rede; configuração em switchs, roteadores, cabos e IPs, criação de site com WordPress, trabalhando também com HTML, CSS e Javascript.
 
 
-1. Minas Sul Transportes LTDA – Assistente Administrativo em Transporte - JAN DE 2017 – DEZ DE 2017
+- Minas Sul Transportes LTDA – Assistente Administrativo em Transporte - JAN DE 2017 – DEZ DE 2017
 
 Lançamento de viagens; lançamento de ordem de serviço; atendimento ao telefone; lançamento de diário de bordo; conferencia de planilha; lançamento no sistema do estoque, formatação de computadores.
 
 
-1. Época soluções e serviços empresarias LTDA (Danone LTDA) - Auxiliar em embalagem - AGO DE 2016 – OUT DE 2016
+- Época soluções e serviços empresarias LTDA (Danone LTDA) - Auxiliar em embalagem - AGO DE 2016 – OUT DE 2016
 
 Conferência de paletes; atuação na área de produção; lançamento de código de barra.
   
