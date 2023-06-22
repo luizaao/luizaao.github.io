@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV - Perfil e Objetivos"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-Perfil e Objetivos
-===
 Sou um desenvolvedor de sistemas com experiência em diversas linguagens e frameworks, incluindo React.js, Angular, Node.js, Python, Bootstrap, SQL, GraphQL, AWS, VBA e Selenium. Com habilidades em API's REST e micro serviços utilizando Apache Kafka, TDD, busco oportunidades em empresas inovadoras e colaborativas, onde possa aplicar meu conhecimento em desenvolvimento de software para criar soluções práticas que atendam às necessidades dos clientes e gerem impacto positivo na sociedade. Além disso, meu objetivo é expandir a visão de responsabilidade social, desenvolver equipes de alto desempenho e estimular a adoção de novas ideias e práticas. Estou sempre em busca de aprendizado e desafios e animado para fazer parte de equipes que buscam soluções criativas e dinâmicas para problemas complexos.
 
 
