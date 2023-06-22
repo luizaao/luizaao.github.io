@@ -19,7 +19,6 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
 
 Minha formação 🎓
 ======
-Bacharelado em Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais
 
 Sou graduado em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais, com sólidos conhecimentos em programação, algoritmos e estruturas de dados. Durante meu curso, adquiri habilidades para desenvolver softwares eficientes e escaláveis, lidando com desafios tecnológicos complexos. Com especializações em inteligência artificial, redes de computadores e segurança da informação, estou preparado para atuar em empresas de tecnologia, contribuindo para o desenvolvimento de soluções inovadoras.
 
