@@ -17,61 +17,25 @@ Minha experiência também inclui trabalhar em projetos DevOps, usando metodolog
 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em tecnologia e contribuir para o crescimento de empresas e projetos inovadores.
 
 
-Um pouco sobre minha formação 🎓
+Minha formação 🎓
 ======
-1. Bacharelado em Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais 
+Bacharelado em Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais
 
-Sou graduado em Ciência da Computação, com sólidos conhecimentos em programação, algoritmos e estruturas de dados. Durante meu curso, aprendi a desenvolver softwares eficientes e escaláveis, bem como a lidar com desafios tecnológicos complexos. Além disso, tive a oportunidade de me aprofundar em áreas como inteligência artificial, redes de computadores e segurança da informação. 
-Com esses conhecimentos, estou preparado para atuar em empresas de tecnologia e contribuir para o desenvolvimento de soluções inovádoras que melhorem a vida das pessoas.
+Sou graduado em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais, com sólidos conhecimentos em programação, algoritmos e estruturas de dados. Durante meu curso, adquiri habilidades para desenvolver softwares eficientes e escaláveis, lidando com desafios tecnológicos complexos. Com especializações em inteligência artificial, redes de computadores e segurança da informação, estou preparado para atuar em empresas de tecnologia, contribuindo para o desenvolvimento de soluções inovadoras.
 
-- Atividades e grupos: - Realização de projetos pessoais de programação, tais como criação de aplicativos, jogos ou sites, para aprimorar habilidades técnias e desenvolver portfolio.
-- Realização de estágio onde pude aplicar conhecimentos em situações reais e adquirir experiência profissional.
-- Trabalhos em grupos para diversas matérias como engenharia de software, banco de dados, sistemas operacionais, etc.
+Atividades e competências: Realizei projetos pessoais de programação, participei de estágios onde apliquei conhecimentos em situações reais e trabalhei em grupos para diversos projetos. Tenho experiência prática em linguagens como Python, PHP, JavaScript (incluindo frameworks como Vue.js, React.js e AngularJS), além de HTML, CSS e SQL para o desenvolvimento web. Também possuo conhecimentos em ciência de dados, utilizando Python para análise e manipulação de dados. Minhas habilidades se estendem ao desenvolvimento full-stack, administração de redes, DevOps, Docker e frameworks como .NET e ASP.NET. Além disso, possuo certificações em Front-end Web com HTML+CSS+JScript, jQuery+bootstrap, Desenvolvimento Web com React JS e Ruby on Rails, entre outras.
 
-Competências: Pyhton · Vue.js · Desenvolvimento orientado a testes · Administração de redes · PHP · Rede de computadores · Ciência de dados · DevOps · Python · Macro · HTML · Node.js · React.js · Tecnologia da informação · Desenvolvimento de software · Desenvolvimento de front-end · Desenvolvimento web · Microsoft Excel · SQL · Visual Basic · Banco de dados · .NET Framework · Microsoft PowerPoint · JavaScript · Git · CSS · AngularJS · Docker · ASP.NET · Trabalho em equipe · Inglês empresarial
-
-
-1. Montagem e manutenção de microcomputadores e redes - Serviço Nacional de Aprendizagem Industrial – SENAI
-
-
-1. Técnico em Administração - Serviço Nacional de Aprendizagem Comercial - SENAC
-
-Curso de 1000h em técnico de administração.
-Competências: Finanças · Administração · Microsoft PowerPoint · Trabalho em equipe
-
-
-1. Assistente Administrativo em Transporte - SEST SENAT
+Além da minha formação em Ciência da Computação, também possuo formações técnicas em administração, montagem e manutenção de microcomputadores e redes, e experiência como assistente administrativo em transporte. Minhas competências técnicas são acompanhadas por habilidades de comunicação eficaz, trabalho em equipe e liderança, que me permitem colaborar de forma efetiva em projetos multidisciplinares e alcançar resultados de qualidade. Estou comprometido em utilizar minha experiência e conhecimento para contribuir para o desenvolvimento de soluções tecnológicas inovadoras e fazer parte de equipes que buscam impacto positivo por meio da tecnologia.
 
 Experiências vivenciadas 🫱🏽‍🫲🏽
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Projetos, conquistas e aprimoramentos 🏆
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Para mais informações
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
