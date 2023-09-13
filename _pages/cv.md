@@ -71,6 +71,8 @@ Desenvolvi projetos full-stack e front-end utilizando as tecnologias React e Ang
 - DANONE – Auxiliar de analista - MAR DE 2019 – OUT DE 2022
 
 Desenvolvimento de Macros e Userforms para o setor fiscal; Power Query e PowerBI; Interação de Macros com o sistema SAP, fazendo conexões com APIs em Python e integração com Selenium; criação de banco de dados, dashboards; análise de relatórios; criação de modelos de casos de usos; interação e scritps feitos no SAP; sistemas para conversão de XML.
+Também fora feito uma digitalização do arquivo morto, onde tomei frente neste tema, e recuperamos e otimizamos trabalho de 25 anos de arquivos essenciais para a empresa.
+Participei também de um projeto de alto sucesso no time de TAX, onde conseguimos um crédito de mais de 10 milhões de reais de ICMS que foram acumulados ao longo dos anos, para todas as filiais.
 
 
 - Autônomo – Técnico em Informática - DESDE JAN DE 2018
@@ -80,7 +82,7 @@ Montagem e manutenção preventiva e corretiva de hardwares e softwares de compu
 
 - INSS – Estágio como Técnico de manutenção de redes e computadores - JUN DE 2018 – MAR DE 2019
 
-Manutenção de computadores e redes; instalação de rede; configuração em switchs, roteadores, cabos e IPs, criação de site com WordPress, trabalhando também com HTML, CSS e Javascript.
+Manutenção de computadores e redes; instalação de rede; configuração em switchs, roteadores, cabos e IPs, montagem de uma rede completa da sede, participação do projeto de site interno do INSS, onde pude utilizar de HTML, CSS, JS e WordPress.
 
 
 - Minas Sul Transportes LTDA – Assistente Administrativo em Transporte - JAN DE 2017 – DEZ DE 2017
