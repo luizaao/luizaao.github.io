@@ -23,6 +23,11 @@ Idiomas
 
 Formação
 ======
+- Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - SET DE 2023 – ATUAL
+
+Pós Graduação em Arquitetura de Soluções
+
+
 - Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - FEV DE 2018 – JUN DE 2023
 
 Bacharelado em Ciência da Computação
@@ -49,6 +54,15 @@ Ensino médio completo - 2016
 
 Experiências
 ======
+- CITUR - Analista de TI - DESDE JUL DE 2023
+
+Sou responsável pelo setor de T.I. da empresa, atuando no suporte técnico, manunteção e tratativa de erros sistemicos, manipulação do banco de dados fazendo apontamentos estratégicos com a tratativa dos dados e apresentando em relatórios e gráficos, utilizando powerBI e Data Studio, trazendo uma economia impactante com a trativa destes dados.
+
+Também atuo hoje na implementação e criação de novos softwares, de gestão de dados interno e externo. Em um destes projetos que venho desenvolvendo e implementando, fazendo a captação de dados de clientes por meio de um certificado digital, com um ROI calculado em 7 digítos dentro de poucos anos, voltado apenas para este projeto.
+
+Atualmente trabalho com FireBird, DBeaver, JavaScript, Redes de computadores, MongoDB, React, PowerBI, Node, Python, AWS, Data Studio, PostgreSQL, etc.
+
+
 - Workana – Freelancer Desenvolvedor de Sistemas - DESDE ABR DE 2023
 
 Desenvolvi projetos full-stack e front-end utilizando as tecnologias React e Angular, além de projetos back-end utilizando Node.js. Como parte desses trabalhos, fui responsável pela implementação de funcionalidades, elaboração de testes e otimização de performance. Também participei de reuniões com clientes para entender suas necessidades e propor soluções customizadas, contribuindo para a construção de sistemas que atendem às expectativas dos usuários finais.
