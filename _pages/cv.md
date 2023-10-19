@@ -56,11 +56,11 @@ Experiências
 ======
 - CITUR - Analista de TI - DESDE JUL DE 2023
 
-Sou responsável pelo setor de T.I. da empresa, atuando no suporte técnico, manunteção e tratativa de erros sistemicos, manipulação do banco de dados fazendo apontamentos estratégicos com a tratativa dos dados e apresentando em relatórios e gráficos, utilizando powerBI e Data Studio, trazendo uma economia impactante com a trativa destes dados.
+Sou responsável pelo setor de T.I. da empresa, atuando no suporte técnico, manunteção e tratativa de erros sistemicos. Hoje sou o principal responsavel pela criação de todos os KPI's e tratativa de dados da empresa, fazendo a manipulação do banco de dados, apontamentos estratégicos com a tratativa dos dados e apresentando em relatórios e gráficos, utilizando powerBI e Data Studio, trazendo uma economia impactante com a trativa destes dados.
 
-Também atuo hoje na implementação e criação de novos softwares, de gestão de dados interno e externo. Em um destes projetos que venho desenvolvendo e implementando, fazendo a captação de dados de clientes por meio de um certificado digital, com um ROI calculado em 7 digítos dentro de poucos anos, voltado apenas para este projeto.
+Também atuo hoje na implementação e criação de novos softwares, de gestão de dados interno e externo. Em um destes projetos que venho desenvolvendo e implementando, fazendo a captação de dados de clientes por meio de um certificado digital, com um ROI calculado em 7 digítos dentro de poucos anos, voltado apenas para este projeto. Também sou o responsável por todos os sites da empresa criados com Wordpress e integrados com o ERP.
 
-Atualmente trabalho com FireBird, DBeaver, JavaScript, Redes de computadores, MongoDB, React, PowerBI, Node, Python, AWS, Data Studio, PostgreSQL, etc.
+Atualmente trabalho com FireBird, DBeaver, JavaScript, Redes de computadores, MongoDB, React, PowerBI, Node, Python, AWS, Data Studio, PostgreSQL, Wordpress, etc.
 
 
 - Workana – Freelancer Desenvolvedor de Sistemas - DESDE ABR DE 2023
