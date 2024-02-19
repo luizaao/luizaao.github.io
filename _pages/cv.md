@@ -12,7 +12,7 @@ redirect_from:
 
 Perfil e Objetivos
 ===
-Sou um desenvolvedor de sistemas com experiência em diversas linguagens e frameworks, incluindo React.js, Angular, Node.js, Python, Bootstrap, SQL, GraphQL, AWS, VBA e Selenium. Com habilidades em API's REST e micro serviços utilizando Apache Kafka, TDD, busco oportunidades em empresas inovadoras e colaborativas, onde possa aplicar meu conhecimento em desenvolvimento de software para criar soluções práticas que atendam às necessidades dos clientes e gerem impacto positivo na sociedade. Além disso, meu objetivo é expandir a visão de responsabilidade social, desenvolver equipes de alto desempenho e estimular a adoção de novas ideias e práticas. Estou sempre em busca de aprendizado e desafios e animado para fazer parte de equipes que buscam soluções criativas e dinâmicas para problemas complexos.
+Sou um desenvolvedor de sistemas com experiência em diversas linguagens e frameworks, incluindo React.js, MongoDB, Node.js, Python, Bootstrap, Django, SQL, NoSQL, GraphQL, AWS, VBA e Selenium. Com habilidades em manipulação de dados, criação de procedures, API's REST e micro serviços utilizando Apache Kafka, TDD, busco oportunidades em empresas inovadoras e colaborativas, onde possa aplicar meu conhecimento em desenvolvimento de software para criar soluções práticas que atendam às necessidades dos clientes e gerem impacto positivo na sociedade. Além disso, meu objetivo é expandir a visão de responsabilidade social, trazer os melhores apontamentos de dados para tomadas de decisões estratégicas, desenvolver equipes de alto desempenho e estimular a adoção de novas ideias e práticas. Estou sempre em busca de aprendizado e desafios e animado para fazer parte de equipes que buscam soluções criativas e dinâmicas para problemas complexos.
 
 
 Idiomas
@@ -23,6 +23,11 @@ Idiomas
 
 Formação
 ======
+- Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - SET DE 2023 – ATUAL
+
+Pós Graduação em Arquitetura de Soluções
+
+
 - Pontifícia Universidade Católica de Minas Gerais (PUC Minas) - FEV DE 2018 – JUN DE 2023
 
 Bacharelado em Ciência da Computação
@@ -49,6 +54,15 @@ Ensino médio completo - 2016
 
 Experiências
 ======
+- CITUR - Analista de TI - DESDE JUL DE 2023
+
+Sou responsável pelo setor de T.I. da empresa, atuando no suporte técnico, manunteção e tratativa de erros sistemicos. Hoje sou o principal responsavel pela criação de todos os KPI's e tratativa de dados da empresa, fazendo a manipulação do banco de dados, apontamentos estratégicos com a tratativa dos dados e apresentando em relatórios e gráficos, utilizando powerBI e Data Studio, trazendo uma economia impactante com a trativa destes dados.
+
+Também atuo hoje na implementação e criação de novos softwares, de gestão de dados interno e externo. Em um destes projetos que venho desenvolvendo e implementando, fazendo a captação de dados de clientes por meio de um certificado digital, com um ROI calculado em 7 digítos dentro de poucos anos, voltado apenas para este projeto. Também sou o responsável por todos os sites da empresa criados com Wordpress e integrados com o ERP.
+
+Atualmente trabalho com FireBird, DBeaver, JavaScript, Redes de computadores, MongoDB, React, PowerBI, Node, Python, AWS, Data Studio, PostgreSQL, Wordpress, etc.
+
+
 - Workana – Freelancer Desenvolvedor de Sistemas - DESDE ABR DE 2023
 
 Desenvolvi projetos full-stack e front-end utilizando as tecnologias React e Angular, além de projetos back-end utilizando Node.js. Como parte desses trabalhos, fui responsável pela implementação de funcionalidades, elaboração de testes e otimização de performance. Também participei de reuniões com clientes para entender suas necessidades e propor soluções customizadas, contribuindo para a construção de sistemas que atendem às expectativas dos usuários finais.
@@ -57,6 +71,8 @@ Desenvolvi projetos full-stack e front-end utilizando as tecnologias React e Ang
 - DANONE – Auxiliar de analista - MAR DE 2019 – OUT DE 2022
 
 Desenvolvimento de Macros e Userforms para o setor fiscal; Power Query e PowerBI; Interação de Macros com o sistema SAP, fazendo conexões com APIs em Python e integração com Selenium; criação de banco de dados, dashboards; análise de relatórios; criação de modelos de casos de usos; interação e scritps feitos no SAP; sistemas para conversão de XML.
+Também fora feito uma digitalização do arquivo morto, onde tomei frente neste tema, e recuperamos e otimizamos trabalho de 25 anos de arquivos essenciais para a empresa.
+Participei também de um projeto de alto sucesso no time de TAX, onde conseguimos um crédito de mais de 10 milhões de reais de ICMS que foram acumulados ao longo dos anos, para todas as filiais.
 
 
 - Autônomo – Técnico em Informática - DESDE JAN DE 2018
@@ -66,7 +82,7 @@ Montagem e manutenção preventiva e corretiva de hardwares e softwares de compu
 
 - INSS – Estágio como Técnico de manutenção de redes e computadores - JUN DE 2018 – MAR DE 2019
 
-Manutenção de computadores e redes; instalação de rede; configuração em switchs, roteadores, cabos e IPs, criação de site com WordPress, trabalhando também com HTML, CSS e Javascript.
+Manutenção de computadores e redes; instalação de rede; configuração em switchs, roteadores, cabos e IPs, montagem de uma rede completa da sede, participação do projeto de site interno do INSS, onde pude utilizar de HTML, CSS, JS e WordPress.
 
 
 - Minas Sul Transportes LTDA – Assistente Administrativo em Transporte - JAN DE 2017 – DEZ DE 2017
