@@ -10,7 +10,7 @@ redirect_from:
 
 Olá, sou o Luiz e seja bem-vindo ao meu site! 😀
 
-Sou um profissional formado em Ciência da Computação pela PUC Minas e Pós graduando Arquitetura de soluções, com experiência em diversas linguagens de programação, como LLM, IA, Criptos, API, VBA, ERP, Python, NoSQL, AWS, Frameworks, JavaScript e SQL. Minha especialização em desenvolvimento de software e manipulação de dados me deu habilidades em criação de sistemas, automação, testes unitários, criação de gráficos e relatórios com apontamentos estratégicos e conhecimento full stack e data science.
+Sou um profissional formado em Ciência da Computação pela PUC Minas e Pós graduando Arquitetura de soluções, com experiência em diversas linguagens de programação, como SQL, Python, JavaScript, LLM, IA, Criptos, API, VBA, ERP, NoSQL, AWS e Frameworks. Minha especialização em desenvolvimento de software e manipulação de dados me deu habilidades em criação de sistemas, automação, testes unitários, criação de gráficos e relatórios com apontamentos estratégicos e conhecimento full stack e data science.
 
 Minha experiência também inclui trabalhar em projetos DevOps e arquitetura e engenharia de software, usando metodologias ágeis para otimizar a entrega de software e melhorar a colaboração entre as equipes de desenvolvimento e operações. Além disso, possuo experiência em criação de macros e automatização de processos em ambientes corporativos.
 
