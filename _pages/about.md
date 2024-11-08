@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Olá, sou o Luiz e seja bem-vindo ao meu site! 😀
+Olá, sou o Luiz e bem-vindo ao meu LinkedIn! 😀
 
-Sou um profissional formado em Ciência da Computação pela PUC Minas e Pós graduando Arquitetura de soluções, com experiência em diversas linguagens de programação, como SQL, Python, JavaScript, LLM, IA, Criptos, API, VBA, ERP, NoSQL, AWS e Frameworks. Minha especialização em desenvolvimento de software e manipulação de dados me deu habilidades em criação de sistemas, automação, testes unitários, criação de gráficos e relatórios com apontamentos estratégicos e conhecimento full stack e data science.
+Como coordenador de TI, lidero iniciativas que conectam tecnologia aos objetivos estratégicos da empresa, buscando sempre soluções inovadoras e alinhadas ao crescimento sustentável. Minha graduação em Ciência da Computação pela PUC Minas, com forte foco em engenharia de dados, me deu uma base sólida para entender e implementar soluções de alto impacto em ambientes corporativos complexos.
 
-Minha experiência também inclui trabalhar em projetos DevOps e arquitetura e engenharia de software, usando metodologias ágeis para otimizar a entrega de software e melhorar a colaboração entre as equipes de desenvolvimento e operações. Além disso, possuo experiência em criação de macros e automatização de processos em ambientes corporativos.
+Tenho amplo conhecimento em linguagens e ferramentas como SQL (minha especialidade), Python, AWS, Apache Spark, React, VBA, Looker Data Studio e outras, que utilizo para construir análises detalhadas e automações que melhoram a eficiência e a tomada de decisão. Minha experiência com metodologias ágeis me permite atuar com agilidade e colaboração, sempre com foco na entrega de valor estratégico para a empresa.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em tecnologia e contribuir para o crescimento de empresas e projetos inovadores.
+Sou movido pela curiosidade e pela busca pela excelência, por meio de habilidades como pensamento crítico, storytelling com dados e liderança, que me ajudam a traduzir desafios técnicos em soluções claras e acionáveis. Estou sempre aberto a novos aprendizados e colaborações, motivado por um compromisso contínuo em gerar resultados com tecnologia e inovação.
 
 
 Minha formação 🎓
