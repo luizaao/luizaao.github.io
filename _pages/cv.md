@@ -12,8 +12,11 @@ redirect_from:
 
 Perfil e Objetivos
 ===
-Sou um desenvolvedor de sistemas com experiência em diversas linguagens e frameworks, incluindo React.js, MongoDB, Node.js, Python, Bootstrap, Django, SQL, NoSQL, GraphQL, AWS, VBA e Selenium. Com habilidades em manipulação de dados, criação de procedures, API's REST e micro serviços utilizando Apache Kafka, TDD, busco oportunidades em empresas inovadoras e colaborativas, onde possa aplicar meu conhecimento em desenvolvimento de software para criar soluções práticas que atendam às necessidades dos clientes e gerem impacto positivo na sociedade. Além disso, meu objetivo é expandir a visão de responsabilidade social, trazer os melhores apontamentos de dados para tomadas de decisões estratégicas, desenvolver equipes de alto desempenho e estimular a adoção de novas ideias e práticas. Estou sempre em busca de aprendizado e desafios e animado para fazer parte de equipes que buscam soluções criativas e dinâmicas para problemas complexos.
+Sou um profissional de tecnologia especializado em desenvolvimento e manipulação de dados, com vasta experiência em diversas linguagens e frameworks, como SQL, Python, React.js, MongoDB, e ferramentas para análise e gestão de dados em ambientes de alto volume, incluindo Apache Kafka e AWS. Minha expertise em criação de APIs, procedures, microserviços e automação com VBA e Selenium me permite integrar sistemas e otimizar processos com foco em dados confiáveis e escaláveis.
 
+Meu objetivo é aplicar minhas habilidades técnicas para gerar insights estratégicos e apoiar decisões informadas, impulsionando a transformação de dados em valor concreto para o negócio. Tenho um forte interesse em desenvolver soluções de inteligência de dados que contribuam para uma visão orientada por dados nas empresas e ajudem na criação de estratégias de impacto positivo, tanto para o cliente quanto para a sociedade.
+
+Acredito no poder dos dados para apoiar inovações e direcionar o crescimento, e busco oportunidades onde eu possa colaborar com equipes dinâmicas e criativas, comprometidas com a resolução de problemas complexos e com o desenvolvimento de produtos e processos orientados para o futuro.
 
 Idiomas
 ===
@@ -54,6 +57,13 @@ Ensino médio completo - 2016
 
 Experiências
 ======
+
+- CITUR - Coordenador de TI - DESDE AGO DE 2024
+
+Atuo como responsável pela gestão completa das demandas de tecnologia, com foco em soluções de dados e infraestrutura digital. Lidero atividades de desenvolvimento e manipulação de bancos de dados, pipelines de ETL e criação de dashboards para análise de dados estratégicos utilizando Power BI, Python e Looker Studio. Sou encarregado do desenvolvimento de sistemas internos personalizados, aplicando tecnologias como JavaScript, HTML, CSS, React, Bootstrap e VBA para otimizar processos e melhorar a eficiência do setor.
+
+Administro e mantenho os sites da empresa, desenvolvidos em React.js, além de liderar a análise e criação de relatórios e visualizações de dados para suporte à tomada de decisão. Minha função abrange a implementação e suporte a softwares, gerenciamento do Microsoft Teams e ferramentas MS, controle de erros no ERP e suporte técnico aos usuários. Como líder do time de tecnologia interna, coordeno as atividades e projetos, garantindo alinhamento com os objetivos estratégicos e a excelência nas operações digitais da empresa.
+
 - CITUR - Analista de TI - DESDE JUL DE 2023
 
 Sou responsável pelo setor de T.I. da empresa, atuando no suporte técnico, manunteção e tratativa de erros sistemicos. Hoje sou o principal responsavel pela criação de todos os KPI's e tratativa de dados da empresa, fazendo a manipulação do banco de dados, apontamentos estratégicos com a tratativa dos dados e apresentando em relatórios e gráficos, utilizando powerBI e Data Studio, trazendo uma economia impactante com a trativa destes dados.
