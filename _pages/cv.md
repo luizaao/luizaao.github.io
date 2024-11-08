@@ -108,13 +108,14 @@ Habilidades e Linguagens
 ======
 * Desenvolvimento de Software
 * Engenharia de Software
+* Engenharia de Dados
 * Análise de dados
 * Redes de Computadores
 * Ciência de Dados
 * Administração e Transporte
 * Conhecimento contábil
 * Desenvolvedor Full-stack
-* DevOps
+* Gráficos e análises
 
 -- Linguagens e Frameworks
 C# | JS | React.js | Node.js | SQL | Python | AWS | VBA | SAP | Selenium | MongoBD | SASS | Git | Docker | Linux | Vue.js | PHP | HTML |.NET Framework | Microsoft PowerPoint | AngularJS | ASP.NET
